@@ -1,0 +1,4 @@
+anthropic>=0.40.0   # only needed for real LLM runs (not for --demo or tests)
+openai>=1.0.0      # only needed for Hugging Face Inference Providers
+python-dotenv>=1.0.0
+pytest>=8.0
